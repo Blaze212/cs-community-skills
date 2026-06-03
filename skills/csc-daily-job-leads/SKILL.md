@@ -1,5 +1,5 @@
 ---
-name: cs-daily-job-leads
+name: csc-daily-job-leads
 description: Find, verify, dedupe, score, and summarize daily job leads matching a user's target roles, companies, locations, and preferences.
 ---
 # Daily Job Leads
