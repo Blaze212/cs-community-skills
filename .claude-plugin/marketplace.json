@@ -6,13 +6,14 @@
   },
   "metadata": {
     "description": "Premium career skills for the Career Systems community",
-    "version": "1.0.0"
+    "version": "1.0.3"
   },
   "plugins": [
     {
       "name": "career-systems-community",
       "source": "./",
-      "description": "Premium career skills for the Career Systems community"
+      "description": "Premium career skills for the Career Systems community",
+      "version": "1.0.3"
     }
   ]
 }
