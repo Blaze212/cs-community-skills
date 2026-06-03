@@ -12,8 +12,7 @@
     {
       "name": "career-systems-community",
       "source": "./",
-      "description": "Premium career skills for the Career Systems community",
-      "version": "1.0.0"
+      "description": "Premium career skills for the Career Systems community"
     }
   ]
 }
