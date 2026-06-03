@@ -1,0 +1,11 @@
+{
+  "name": "career-systems-community",
+  "description": "Premium career skills for the Career Systems community",
+  "version": "1.0.0",
+  "skills": [
+    "./skills/cs-boolean-job-search",
+    "./skills/cs-boolean-job-search-links",
+    "./skills/cs-job-fit-scorer",
+    "./skills/cs-job-fit-scorer-workspace"
+  ]
+}
