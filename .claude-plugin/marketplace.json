@@ -15,8 +15,7 @@
       "skills": [
         "./skills/cs-boolean-job-search",
         "./skills/cs-boolean-job-search-links",
-        "./skills/cs-job-fit-scorer",
-        "./skills/cs-job-fit-scorer-workspace"
+        "./skills/cs-job-fit-scorer"
       ]
     }
   ]
